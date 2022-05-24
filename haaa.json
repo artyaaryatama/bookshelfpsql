@@ -1,0 +1,8 @@
+dummyResult = {
+  'name' : 'Nanami Kento',
+  'nationality' : 'Indonesia',
+  'nik' : 1212112121221112,
+  'gender' : 'Pria',
+  'marital_status' : 'Belum Kawin',
+  'id_ktp' : '12432'
+};
